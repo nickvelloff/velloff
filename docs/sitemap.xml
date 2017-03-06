@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://velloff.com/index.html</loc>
-    <lastmod>2017-03-02</lastmod>
+    <lastmod>2017-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,9 +10,6 @@
     </image:image>
     <image:image>
       <image:loc>http://velloff.com/images/pic593x461.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://velloff.com/images/pic297x231.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://velloff.com/images/logos_0000s_0001_volkswagen_1150x150.jpg</image:loc>
@@ -111,52 +108,55 @@
       <image:loc>http://velloff.com/images/logos_0000s_0008_lexus-logo-267x67.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0001_volkswagen_155x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/pic348x270.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0000_xbox_one_logo54x54.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0001_volkswagen_158x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0002_vitaminwater55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0000_xbox_one_logo57x57.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0003_thegrid-logo55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0002_vitaminwater58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0006_sapient_corporation_logo55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0003_thegrid-logo58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0007_rga-logo55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0006_sapient_corporation_logo58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0008_lexus-logo-255x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0007_rga-logo58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0009_hp_new_logo_2d55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0009_hp_new_logo_2d58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0011_espn_logo_wordmark55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0004_the_travelers_companies58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0012_deutsch_la_logo55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0011_espn_logo_wordmark58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0013_cpb_crispin_porterbogusky_logo55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0012_deutsch_la_logo58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0014_akqa-logo55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0013_cpb_crispin_porterbogusky_logo58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0015_adobe_systems_logo_and_wordmark55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0014_akqa-logo58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0005_sony-playstation-logo-final55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0015_adobe_systems_logo_and_wordmark58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0010_goodbylogo55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0005_sony-playstation-logo-final58x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://velloff.com/images/logos_0000s_0004_the_travelers_companies55x55.jpg</image:loc>
+      <image:loc>http://velloff.com/images/logos_0000s_0010_goodbylogo58x58.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://velloff.com/images/logos_0000s_0008_lexus-logo-258x58.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
