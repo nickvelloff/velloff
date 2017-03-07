@@ -1,0 +1,173 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="velloff.com" resolutions="1x,2x" timestamp="1488928607164">
+  <folder name="css">
+    <file name="site_global.css" crc="87767205"/>
+    <file name="index.css" crc="5676174" ref="index"/>
+    <file name="nomq_index.css" crc="266258528" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pic.jpg" crc="107793470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic593x461.jpg" crc="3819075016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0001_volkswagen_1150x150.jpg" crc="3917796774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0002_vitaminwater150x150.jpg" crc="4169956795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0003_thegrid-logo150x150.jpg" crc="405159462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0006_sapient_corporation_logo150x150.jpg" crc="341815254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0007_rga-logo150x150.jpg" crc="4045118960" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0008_lexus-logo-2150x150.jpg" crc="4157574510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0009_hp_new_logo_2d150x150.jpg" crc="410917136" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0011_espn_logo_wordmark150x150.jpg" crc="240379365" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0012_deutsch_la_logo150x150.jpg" crc="4047913447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0013_cpb_crispin_porterbogusky_logo150x150.jpg" crc="508647979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0014_akqa-logo150x150.jpg" crc="4290258744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0015_adobe_systems_logo_and_wordmark150x150.jpg" crc="4200255514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0005_sony-playstation-logo-final150x150.jpg" crc="487753846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0010_goodbylogo150x150.jpg" crc="57306886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0004_the_travelers_companies150x150.jpg" crc="476875653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic348x270.jpg" crc="3847904770" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0001_volkswagen_158x58.jpg" crc="3935418062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0002_vitaminwater58x58.jpg" crc="24230471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0003_thegrid-logo58x58.jpg" crc="362057757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0006_sapient_corporation_logo58x58.jpg" crc="3947580551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0007_rga-logo58x58.jpg" crc="3799711058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0009_hp_new_logo_2d58x58.jpg" crc="269789223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0004_the_travelers_companies58x58.jpg" crc="3992861334" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0011_espn_logo_wordmark58x58.jpg" crc="4152074092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0012_deutsch_la_logo58x58.jpg" crc="102252675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0013_cpb_crispin_porterbogusky_logo58x58.jpg" crc="4194293422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0014_akqa-logo58x58.jpg" crc="4214049514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0015_adobe_systems_logo_and_wordmark58x58.jpg" crc="448272985" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0005_sony-playstation-logo-final58x58.jpg" crc="274038703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0010_goodbylogo58x58.jpg" crc="82433238" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0008_lexus-logo-258x58.jpg" crc="107572879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0000_xbox_one_logo150x150.jpg" crc="4187660333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0001_volkswagen_179x79.jpg" crc="289023911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0000_xbox_one_logo79x80.jpg" crc="4294760393" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0002_vitaminwater79x79.jpg" crc="3949356792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0003_thegrid-logo79x79.jpg" crc="4190374423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0006_sapient_corporation_logo79x79.jpg" crc="325801247" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0007_rga-logo79x79.jpg" crc="512250877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0009_hp_new_logo_2d79x79.jpg" crc="126158205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0004_the_travelers_companies79x79.jpg" crc="527393703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0011_espn_logo_wordmark79x79.jpg" crc="3823815036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0012_deutsch_la_logo79x79.jpg" crc="3939440351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0013_cpb_crispin_porterbogusky_logo79x79.jpg" crc="360333545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0014_akqa-logo79x79.jpg" crc="70711566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0015_adobe_systems_logo_and_wordmark79x79.jpg" crc="4184775217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0005_sony-playstation-logo-final79x79.jpg" crc="4293789658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0010_goodbylogo79x79.jpg" crc="167155127" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0008_lexus-logo-279x79.jpg" crc="53460043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos_0000s_0000_xbox_one_logo58x59.jpg" crc="3978879139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="441745197" seo="true" mt="1488928591825" redirect="true"/>
+</manifest>
