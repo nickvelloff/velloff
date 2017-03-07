@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="velloff.com" resolutions="1x,2x" timestamp="1488930028767">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="velloff.com" resolutions="1x,2x" timestamp="1488930300798">
   <folder name="css">
     <file name="site_global.css" crc="87767205"/>
-    <file name="index.css" crc="463322382" ref="index"/>
+    <file name="index.css" crc="214479765" ref="index"/>
     <file name="nomq_index.css" crc="263099583" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -169,5 +169,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="140003379" seo="true" mt="1488930019457" redirect="true"/>
+  <file name="index.html" crc="4122926579" seo="true" mt="1488930275454" redirect="true"/>
 </manifest>
